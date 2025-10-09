@@ -2,14 +2,14 @@
 ## Windows Command Prompt Install/Update Instructions
 Paste this command into Windows Command Prompt and press Enter to install/update the app:
 ```sh
-curl -L -o "%TEMP%\Bid_Sniper_Windows_Installer.vbs" "https://shopgoodwill-sniper.github.io/shopgoodwill-auction-sniper/Bid_Sniper_Windows_Installer.vbs" && wscript "%TEMP%\Bid_Sniper_Windows_Installer.vbs"
+curl -L -o "%TEMP%\Bid_Sniper_Windows_Installer.vbs" "https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Windows_Installer.vbs" && wscript "%TEMP%\Bid_Sniper_Windows_Installer.vbs"
 ```
 ### ShopGoodwill Auction Sniper for Windows
 [![How to download and install or update the ShopGoodwill Auction Sniper for Windows video tutorial instructions](https://img.youtube.com/vi/I0pWOUshlOE/maxresdefault.jpg)](https://www.youtube.com/watch?v=I0pWOUshlOE)
 ## Mac Terminal Install/Update Instructions
 Paste this command into Mac Terminal and press Enter to install/update the app:
 ```sh
-curl -fsSL https://shopgoodwill-sniper.github.io/shopgoodwill-auction-sniper/Bid_Sniper_Mac_Installer.sh | bash || { (command -v brew >/dev/null 2>&1 || /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)") && brew install curl && $(command -v /usr/local/opt/curl/bin/curl || command -v /opt/homebrew/opt/curl/bin/curl) -fsSL https://shopgoodwill-sniper.github.io/shopgoodwill-auction-sniper/Bid_Sniper_Mac_Installer.sh | bash; }
+curl -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Mac_Installer.sh | bash || { (command -v brew >/dev/null 2>&1 || /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)") && brew install curl && $(command -v /usr/local/opt/curl/bin/curl || command -v /opt/homebrew/opt/curl/bin/curl) -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Mac_Installer.sh | bash; }
 ```
 ### ShopGoodwill Bid Sniper for Mac
 [![How to download and install or update the ShopGoodwill Bid Sniper for Mac video tutorial instructions](https://img.youtube.com/vi/VK2tm3c7CrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=VK2tm3c7CrY)
