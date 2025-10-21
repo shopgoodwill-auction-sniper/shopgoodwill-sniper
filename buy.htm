@@ -172,6 +172,7 @@
         .balance-box {
             display: flex;
             flex-direction: column;
+            justify-content: space-between;
             justify-content: center;
             border-right: 3px solid rgba(255, 255, 255, 0.4);
             width: 32%;
@@ -180,6 +181,8 @@
             padding-right: 0;
             /* Remove right padding since we're centering */
             position: relative;
+            height: 100%;
+            /* Ensure full height */
         }
 
         .balance-label {
@@ -513,9 +516,14 @@
             text-decoration: underline;
         }
 
+        .balance-content {
+            margin-top: auto;
+            margin-bottom: auto;
+        }
+
         .video-link-wrap {
-            position: absolute;
-            bottom: 0;
+            margin-top: auto;
+            padding-bottom: 10px;
         }
     </style>
     <script>
@@ -655,9 +663,11 @@
         <div class="top-section">
             <!-- Balance -->
             <div class="balance-box">
-                <p class="balance-label">Your Balance</p>
-                <h2 id="balance">Loading...</h2>
-                <!-- <div class="balance-note">Default: 1% success fee</div> -->
+                <div class="balance-content">
+                    <p class="balance-label">Your Balance</p>
+                    <h2 id="balance">Loading...</h2>
+                    <!-- <div class="balance-note">Default: 1% success fee</div> -->
+                </div>
                 <div class="video-link-wrap">
                     <a href="https://www.youtube.com/watch?v=tfVPgN1N-8A" target="_blank"
                         style="color: greenyellow; font-size: 1.25em;">👀
