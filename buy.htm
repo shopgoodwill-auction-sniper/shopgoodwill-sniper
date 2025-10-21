@@ -179,6 +179,7 @@
             /* Center all text */
             padding-right: 0;
             /* Remove right padding since we're centering */
+            position: relative;
         }
 
         .balance-label {
@@ -502,12 +503,19 @@
             }
         }
 
-        .video-link {
+        .video-link,
+        .video-link-wrap a {
             text-decoration: none;
         }
 
-        .video-link:hover {
+        .video-link:hover,
+        .video-link-wrap a:hover {
             text-decoration: underline;
+        }
+
+        .video-link-wrap {
+            position: absolute;
+            bottom: 0;
         }
     </style>
     <script>
@@ -650,8 +658,8 @@
                 <p class="balance-label">Your Balance</p>
                 <h2 id="balance">Loading...</h2>
                 <!-- <div class="balance-note">Default: 1% success fee</div> -->
-                <div>
-                    <a class="video-link" href="https://www.youtube.com/watch?v=tfVPgN1N-8A" target="_blank"
+                <div class="video-link-wrap">
+                    <a href="https://www.youtube.com/watch?v=tfVPgN1N-8A" target="_blank"
                         style="color: greenyellow; font-size: 1.25em;">👀
                         Watch 1-minute how-to send Bitcoin tutorial video 🎥</a>
                 </div>
