@@ -114,3 +114,7 @@ p {
 .cursor-pointer {
     cursor: pointer;
 }
+
+.modal-title {
+    color: black;
+}
