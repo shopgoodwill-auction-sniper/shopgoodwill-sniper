@@ -110,3 +110,7 @@ p {
     max-width: 75%;
     margin: 0 auto 1em auto;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+}
