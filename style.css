@@ -6,6 +6,18 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
+header h1 {
+    font-weight: bold;
+    margin: 0.25em auto;
+}
+
+header h2 {
+    width: 50%;
+    margin: 0.75em auto 1em auto;
+    font-style: italic;
+    color: orange;
+}
+
 a,
 a:visited {
     text-decoration: underline;
@@ -35,10 +47,10 @@ ul.download>li {
     list-style-type: none;
     margin: 0 0.5em 1.5em 0.5em;
     padding: 0;
+    width: 40%;
 }
 
 pre {
-    width: 30vw;
     border-radius: 5px;
 }
 
@@ -50,10 +62,8 @@ pre {
     ul.download>li {
         margin-left: 0;
         margin-right: 0;
-    }
-
-    pre {
-        width: 65vw;
+        display: block;
+        width: 100%;
     }
 }
 
