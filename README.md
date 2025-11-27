@@ -14,7 +14,7 @@ curl -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid
 ### ShopGoodwill Bid Sniper
 [![How to download and install or update the ShopGoodwill Bid Sniper for Mac video tutorial instructions](https://img.youtube.com/vi/VK2tm3c7CrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=VK2tm3c7CrY)
 ## Goodwill Auction Bot
-[![Goodwill Auction Sniper video introduction](https://github.com/shopgoodwill-auction-sniper/shopgoodwill-sniper/blob/main/images/shopgoodwill_auction_sniper_screenshot.jpeg?raw=true)](https://www.youtube.com/watch?v=iF_m-xIBnJU)
+[![Goodwill Auction Sniper video introduction](https://github.com/shopgoodwill-auction-sniper/shopgoodwill-sniper/blob/main/images/ai_auction_sniper_screenshot.jpeg?raw=true)](https://www.youtube.com/watch?v=iF_m-xIBnJU)
 ### Features
 - **Snipes Last Second:** Automatically snipes ShopGoodwill auctions at the last second.
 - **Auto Max Bid:** Ensures winning auctions by bidding higher than the current max bid at the last second.
