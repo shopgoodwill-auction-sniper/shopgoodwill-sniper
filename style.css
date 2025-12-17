@@ -194,3 +194,7 @@ iframe {
         border-radius: 10px;
     }
 }
+
+.list li {
+    margin-bottom: 0.5em;
+}
