@@ -6,7 +6,8 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
-ul {
+ul,
+ul li {
     list-style-type: none;
 }
 
