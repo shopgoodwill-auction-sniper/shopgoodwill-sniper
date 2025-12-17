@@ -6,6 +6,10 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
 header h1 {
     font-weight: bold;
     margin: 0.25em auto;
