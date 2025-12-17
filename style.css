@@ -133,3 +133,64 @@ p {
 .modal-title {
     color: black;
 }
+
+
+
+
+
+
+
+
+
+
+
+/* Add these styles to your existing CSS or create this section */
+
+main section.text {
+    background: white;
+    border-radius: 15px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #333;
+    max-width: 80%;
+}
+
+main section.text h2 {
+    color: #222;
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+}
+
+main section.text h3 {
+    color: #333;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+main section.text p {
+    color: #444;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+main section.text ul li {
+    color: #444;
+    line-height: 1.7;
+}
+
+/* Make sure the iframe stays responsive */
+iframe {
+    max-width: 100%;
+}
+
+/* Adjust for mobile */
+@media (max-width: 768px) {
+    main section.text {
+        padding: 1.5rem;
+        border-radius: 10px;
+    }
+}
