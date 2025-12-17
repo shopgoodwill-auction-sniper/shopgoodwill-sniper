@@ -27,5 +27,3 @@ curl -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid
 - **Sound Effects:** Get themed audio cues for important sniping events.
 - **Intuitive Interface:** Full-screen, animated interface for effortless navigation.
 - **Cross-Platform Compatibility:** Compatible with both Windows and Mac.
-##### Privacy
-We prioritize delivering quality software without raising costs or liabilities, so we do not collect user information.
