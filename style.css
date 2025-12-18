@@ -889,6 +889,10 @@ iframe {
 
 /* Adjust for mobile */
 @media (max-width: 768px) {
+    .hero-section {
+        padding: 30px 20px 60px;
+    }
+
     main section.text {
         padding: 1.5rem;
         border-radius: 10px;
