@@ -1,6 +1,6 @@
-# ShopGoodwill Auction Sniper - Best Sniper for ShopGoodwill.com
+# What is ShopGoodwill Auction Sniper?
 
-The #1 **ShopGoodwill sniper** tool to snipe Goodwill auctions automatically. Our **bid sniper for ShopGoodwill** helps you win more auctions with last-second bidding on ShopGoodwill.com.
+**ShopGoodwill Auction Sniper** is a Goodwill auction bot for ShopGoodwill auctions. Our **bid sniper for ShopGoodwill** helps you win more auctions with last-second bidding on ShopGoodwill.com.
 
 ## What is a ShopGoodwill Auction Sniper?
 
