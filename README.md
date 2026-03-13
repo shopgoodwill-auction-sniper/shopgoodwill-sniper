@@ -1,6 +1,6 @@
 # What is ShopGoodwill Auction Sniper?
 
-A **ShopGoodwill auction sniper** is automated bidding software that places bids at the last second on ShopGoodwill.com auctions, giving you the best chance to win without driving up prices early. Our **Goodwill auction bot** is the best solution for serious ShopGoodwill bidders.
+**ShopGoodwill auction sniper** is an automated bidding software that places bids at the last second on ShopGoodwill.com auctions, giving you the best chance to win without driving up prices early. Our **Goodwill auction bot** is the best solution for serious ShopGoodwill bidders.
 
 ## Why Choose Our ShopGoodwill Bid Sniper?
 
