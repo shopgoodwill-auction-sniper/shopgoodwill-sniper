@@ -1,6 +1,6 @@
 # ShopGoodwill Auction Sniper
 
-**ShopGoodwill Auction Sniper** is a **Goodwill auction bot** that automatically places bids last second of auctions. Download and try it FREE for Windows and Mac!
+**ShopGoodwill Auction Sniper** is a **Goodwill auction bot** for automatic bidding last second of auctions. Download and snipe Goodwill auctions for FREE on Windows and Mac!
 
 ## ShopGoodwill Sniper
 
