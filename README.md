@@ -4,7 +4,7 @@
 
 ## ShopGoodwill Sniper
 
-This **ShopGoodwill.com sniper** is the **best sniper for ShopGoodwill** because it combines:
+This **ShopGoodwill sniper** is the **best sniper for Goodwill** because it combines:
 - Last-second automated bidding to **snipe Goodwill auctions** effectively
 - Multi-auction support to snipe multiple ShopGoodwill auctions simultaneously
 - Self-hosted security - your ShopGoodwill password never leaves your computer
