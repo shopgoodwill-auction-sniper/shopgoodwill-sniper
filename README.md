@@ -2,7 +2,7 @@
 
 **[ShopGoodwill Sniper](https://snipeable.com/)** — the #1 **ShopGoodwill Auction Sniper** and **Goodwill Auction Bot**. Automatically fires last-second bids on ShopGoodwill.com to win more auctions at the lowest price. Free desktop app for Windows, Mac & Linux.
 
-➡️ **[Download ShopGoodwill Sniper at BotGrabber.com](https://snipeable.com/)**
+➡️ **[Download ShopGoodwill Sniper at Snipeable.com](https://snipeable.com/)**
 
 ---
 
@@ -77,4 +77,4 @@ curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.sh | bash
 
 ---
 
-**[Download ShopGoodwill Sniper Free → botgrabber.com/shopgoodwill-sniper](https://snipeable.com/)**
+**[Download ShopGoodwill Sniper Free → Snipeable.com](https://snipeable.com/)**
