@@ -11,13 +11,13 @@
 ### Windows
 Paste into **Command Prompt** and press Enter:
 ```cmd
-curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
+curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
 ```
 
 ### macOS & Linux
 Paste into **Terminal** and press Enter:
 ```bash
-curl -fsSL https://botgrabber.com/download/install-shopgoodwill-sniper.sh | bash
+curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.sh | bash
 ```
 
 > Windows 10/11 · macOS 11 Big Sur+ (Intel & Apple Silicon) · Linux
