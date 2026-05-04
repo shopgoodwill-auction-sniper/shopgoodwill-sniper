@@ -1,6 +1,7 @@
 # ShopGoodwill Sniper – Win Auctions with Last-Second Auto Bidding
 
-**[ShopGoodwill Sniper](https://snipeable.com/)** — the #1 **ShopGoodwill Auction Sniper** and **Goodwill Auction Bot**. Automatically fires last-second bids on ShopGoodwill.com to win more auctions at the lowest price. Free desktop app for Windows, Mac & Linux.
+## What is a ShopGoodwill sniper
+**[ShopGoodwill Sniper](https://snipeable.com/)** is the #1 **ShopGoodwill Auction Sniper** and **Goodwill Auction Bot**. Automatically fires last-second bids on ShopGoodwill.com to win more auctions at the lowest price. Free desktop app for Windows, Mac & Linux.
 
 ➡️ **[Download ShopGoodwill Sniper at Snipeable.com](https://snipeable.com/)**
 
